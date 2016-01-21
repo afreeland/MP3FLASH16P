@@ -16,7 +16,7 @@ The library assumes RX/TX are on pins 10/11. To change this edit the .ccp file.
 * I would like to get some schematics of the basic wiring setup
 * Include files for how to upload files (as there is now an uploader, in Chinese)
 
-# In the "Asses" folder
+# In the "Assets" folder
 * A copy of the original PDF (Chinese) that is available from listing
 * A copy of a partially translated PDF (English) that I have been building as I go
 
