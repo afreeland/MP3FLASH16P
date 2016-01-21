@@ -1,5 +1,5 @@
 # MP3FLASH16P
-This is forked version of (Critters Library)[https://github.com/Critters/MP3FLASH16P] that was an excellent starting point but was missing some functionality for the v1.2 chip. The goal of this library is to make is easier for developers and hobbyists to use this inexpensive mp3 flash module and get to building cooler things quicker! 
+This is forked version of [Critters Library](https://github.com/Critters/MP3FLASH16P) that was an excellent starting point but was missing some functionality for the v1.2 chip. The goal of this library is to make is easier for developers and hobbyists to use this inexpensive mp3 flash module and get to building cooler things quicker! 
 
 
 You can find several of these modules on eBay by searching for "BY8301-16P", they should be around $4.49 (plus shipping). I purchased this one:
