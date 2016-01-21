@@ -1,3 +1,5 @@
+
+
 /*
     This example plays a random file (001 to 010) forever
     It uses the playFileAndWait() command so no extra code is needed, it will play another file as soon as the previous one finishes
@@ -16,12 +18,12 @@ void setup() {
 }
 
 void loop() {
-    // Plays random files from those named 001 to 010
-    myPlayer.playFileAndWait(random(1, 11));
+    // Plays random files from those named 001 to 017 and set volume to 9 (0-30)
+    myPlayer.playFileAndWait(random(1, 17), 10);
     
     // Same, but at 50% (15/30) volume
-    myPlayer.playFileAndWait(random(1, 11), 15); 
+    //myPlayer.playFileAndWait(random(1, 11), 15); 
     
     // Sets the volume back to 100% (30/30) before looping
-    myPlayer.setVolume(30);
+    //myPlayer.setVolume(30);
 }
